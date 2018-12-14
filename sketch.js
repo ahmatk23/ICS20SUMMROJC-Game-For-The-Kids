@@ -3,7 +3,7 @@ mouseClicked = function() {
     background(94, 156, 39);
     fill(7, 14, 145);
     textSize(25);
-    text("wird games are wird", 10, 100);
+    text("weird games are weird", 10, 100);
     image(getImage("avatars/avatar-team"), 80, 150);
 };
 
@@ -11,4 +11,4 @@ mouseClicked = function() {
 background(255, 237, 255);
 fill(0, 255, 102);
 textSize(25);
-text("Wird game", 10, 200);
+text("weird game", 10, 200);
